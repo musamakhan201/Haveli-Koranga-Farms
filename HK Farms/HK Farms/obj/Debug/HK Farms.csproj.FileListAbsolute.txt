@@ -1,0 +1,21 @@
+C:\Users\Usama\source\repos\HK Farms\HK Farms\bin\Debug\HK Farms.exe.config
+C:\Users\Usama\source\repos\HK Farms\HK Farms\bin\Debug\HK Farms.exe
+C:\Users\Usama\source\repos\HK Farms\HK Farms\bin\Debug\HK Farms.pdb
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.Login.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.Properties.Resources.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK Farms.csproj.GenerateResource.cache
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK Farms.csproj.CoreCompileInputs.cache
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK Farms.csproj.CopyComplete
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK Farms.exe
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK Farms.pdb
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.SignUpForm.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.MainMenu.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.Employees.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.Farm.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.UtilityBills.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.AboutUs.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.Expenses.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.HomeItems.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.HomeRestoration.resources
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK Farms.csprojAssemblyReference.cache
+C:\Users\Usama\source\repos\HK Farms\HK Farms\obj\Debug\HK_Farms.Inventory.resources
